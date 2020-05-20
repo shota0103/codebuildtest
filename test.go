@@ -5,7 +5,7 @@ import (
 )
 
 func mysum(x, y int) int {
-	return x + x + y
+	return x + y
 }
 
 func main() {
